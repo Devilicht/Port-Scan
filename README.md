@@ -7,7 +7,7 @@ This is a simple port scanner program in C. It allows you to check the port stat
 - C-compatible operating system
 - C compiler (such as GCC)
 
-Compilation
+## Compilation
 
 1 - Make sure you have a C compiler installed on your system.
 
